@@ -1,0 +1,1 @@
+{"apiBase":"https://myageapp.xyz/api","maxMysteryPerCycle":10,"maxSleepMs":3600000,"maxSpinsPerCycle":20,"maxTasksPerCycle":20,"minSleepMs":60000,"retryDelayMs":4000,"spinDelayMs":2000,"taskDelayMs":1000,"timeoutMs":15000}
