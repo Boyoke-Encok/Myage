@@ -10,6 +10,6 @@ INSTAN BANG GAS HITAMKAN
 
 RUN BOT
 
-- git clone
+- git clone https://github.com/Boyoke-Encok/Myage.git
 - bash setup-termux.sh
 - node myage.mjs
